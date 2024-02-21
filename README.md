@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analyzing
 - 📫 How to reach me: mjimperial542@gmail.com
 - 😄 Pronouns: any pronouns
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I play Papa's freezeria
 
 <!---
 mj-imperial/mj-imperial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
