@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mj-imperial
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning SQL, Excel, Python
-- 💞️ I’m looking to collaborate on data analyzing
+- 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me: mjimperial542@gmail.com
 - 😄 Pronouns: any pronouns
 - ⚡ Fun fact: I play Papa's freezeria
