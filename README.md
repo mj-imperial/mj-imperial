@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mj-imperial
-- 👀 I’m interested in Business Analytics
-- 🌱 I’m currently learning SQL, Excel, Python
-- 💞️ I’m looking to collaborate on SQL
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I’m currently learning Flutter and Full-Stack Web Development
 - 📫 How to reach me: mjimperial542@gmail.com
 - 😄 Pronouns: any pronouns
 - ⚡ Fun fact: I play Papa's freezeria
