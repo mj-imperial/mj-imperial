@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mj-imperial
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently Full-Stack Web Development
-- 📫 How to reach me: mjimperial542@gmail.com
+- 📫 How to reach me: imperialmj542@gmail.com
 - 😄 Pronouns: any pronouns
 - ⚡ Fun fact: I play Papa's freezeria
 
